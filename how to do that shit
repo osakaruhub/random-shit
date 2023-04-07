@@ -1,0 +1,8 @@
+|=A^B
+||=(A^B)vB
+|||=!(Bv(A^B))    
+=NICHT()(B=ODER()(A=UND()B))
+
+
+
+=NICHT(=ODER(B;=UND(A;B)))
